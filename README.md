@@ -88,7 +88,7 @@ This Mini CRM system was built to simulate a real-world client management platfo
 ## ▶️ How to Run
 ### Clone the repository
 ```bash
-git clone https://github.com/your-username/mini-crm.git
+git clone https://github.com/jangilisandhya/mini-crm.git
 cd mini-crm
 ```
 ### Backend Setup
